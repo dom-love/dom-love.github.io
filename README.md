@@ -15,7 +15,8 @@
 
 ### Skills:
 
-- **Programming & Data Engineering:** Expert in Python, with proficiency in Pandas, NumPy/SciPy, Statsmodels, Scikit-learn, Dask, TensorFlow. Skilled in SQL, AWS (Data Engineering/ETL), and web development with Django.
-- **Visualization & Reporting:** Advanced knowledge in Matplotlib, Seaborn, and Power BI.
+- **Programming & Data Engineering:** SQL and Python, with professional experience in data analytics and web development with Django.
+- **Serverless** AWS (ETL/warehousing/analysis), Databricks.
+- **Visualization & Reporting:** Knowledge in Matplotlib, Seaborn, Plotly. 
 - **Statistical Analysis & A/B Testing:** Proficient in Google Optimize and Optimizely for A/B testing and analysis.
 - **Project/Product Management:** Experienced with Atlassian tools for effective project management.
