@@ -7,7 +7,7 @@
 
 ### Professional Experience:
 
-- **Senior Data & Verification Specialist at NuvoAir AB, Stockholm, Sweden (Feb 2022 - Present):** Leading data management for clinical trials, ensuring data integrity, and executing data-driven strategies across departments. Expert in statistical analysis, project data management, quality assurance, and product verification/validation processes.
+- **Senior Data & Verification Specialist at NuvoAir AB, Stockholm, Sweden (Feb 2022 - Present):** Leading data management and programming for clinical trials, ensuring data integrity, and executing data-driven strategies across departments. Expert in statistical analysis, project data management, and working with multifunctional teams in analytics and product verification/validation processes.
 
 - **Clinical Trials Project Associate (Aug 2021 - Feb 2022):** Managed client projects, ensuring high-quality, timely, and within-budget trial execution. Working with operations analysis, client communication, risk management, and project documentation.
 
@@ -15,8 +15,8 @@
 
 ### Skills:
 
-- **Programming & Data Engineering:** SQL and Python, with professional experience in data analytics and web development with Django.
-- **Serverless:** AWS (ETL/warehousing/analysis), Databricks.
+- **Programming & Data:** SQL and Python, with professional experience in data analytics and web development with Django.
+- **Serverless Experience:** AWS (ETL/warehousing/analysis), Databricks.
 - **Visualization & Reporting:** Knowledge in Matplotlib, Seaborn, Plotly. 
 - **Statistical Analysis & A/B Testing:** Proficient in Google Optimize and Optimizely for A/B testing and analysis.
 - **Project/Product Management:** Experienced with Atlassian tools for effective project management.
