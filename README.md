@@ -21,6 +21,10 @@
 - **Statistical Analysis & A/B Testing:** Proficient in Google Optimize and Optimizely for A/B testing and analysis.
 - **Project/Product Management:** Experienced with Atlassian tools for effective project management.
 
+### Some projects to check out:
+
+[Looking at app reviews](assets/pages/app-review-analysis.html)
+
 ### Publications
 
 1. **Endothelial VEGFR2-PLCγ signaling regulates vascular permeability and antitumor immunity through eNOS/Src.**  
