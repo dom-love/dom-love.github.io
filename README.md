@@ -1,4 +1,4 @@
-## Data Analyst and Verification Specialist
+# Data Analyst and Verification Specialist
 
 ### Education:
 
@@ -21,9 +21,7 @@
 - **Statistical Analysis & A/B Testing:** Proficient in Google Optimize and Optimizely for A/B testing and analysis.
 - **Project/Product Management:** Experienced with Atlassian tools for effective project management.
 
-# Peer-Reviewed Articles
-
-## Publications
+### Publications
 
 1. **Endothelial VEGFR2-PLCγ signaling regulates vascular permeability and antitumor immunity through eNOS/Src.**  
    Sjöberg E, Melssen M, Richards M, Ding Y, Chanoca C, Chen D, Nwadozi E, Pal S, **Love DT**, Ninchoji T, Shibuya M, Simons M, Dimberg A, Claesson-Welsh L.  
