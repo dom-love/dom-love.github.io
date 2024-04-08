@@ -28,27 +28,27 @@
    J Clin Invest. 2023 Oct 16. 
    [DOI: 10.1172/JCI161366](https://doi.org/10.1172/JCI161366)
 
-2. **Comparative reactivity of myeloperoxidase-derived oxidants with mammalian cells.**  
-   Rayner BS, **Love DT**, Hawkins CL.  
-   Free Radic Biol Med. 2014 Jun. 
-   [DOI: 10.1016/j.freeradbiomed.2014.03.004](https://doi.org/10.1016/j.freeradbiomed.2014.03.004)
-
-3. **Paladin is a phosphoinositide phosphatase regulating endosomal VEGFR2 signalling and angiogenesis.**  
+2. **Paladin is a phosphoinositide phosphatase regulating endosomal VEGFR2 signalling and angiogenesis.**  
    Nitzsche A, Pietilä R, **Love DT**, Testini C, Ninchoji T, Smith RO, Ekvärn E, Larsson J, Roche FP, Egaña I, Jauhiainen S, Berger P, Claesson-Welsh L, Hellström M.  
    EMBO Rep. 2021 Feb 3. 
    [DOI: 10.15252/embr.202050218](https://doi.org/10.15252/embr.202050218)
 
-4. **eNOS-induced vascular barrier disruption in retinopathy by c-Src activation and tyrosine phosphorylation of VE-cadherin.**  
+3. **eNOS-induced vascular barrier disruption in retinopathy by c-Src activation and tyrosine phosphorylation of VE-cadherin.**  
    Ninchoji T, **Love DT**, Smith RO, Hedlund M, Vestweber D, Sessa WC, Claesson-Welsh L.  
    Elife. 2021 Apr 28.  
    [DOI: 10.7554/eLife.64944](https://doi.org/10.7554/eLife.64944)
 
-5. **The role of the myeloperoxidase-derived oxidant hypothiocyanous acid (HOSCN) in the induction of mitochondrial dysfunction in macrophages.**  
+4. **The role of the myeloperoxidase-derived oxidant hypothiocyanous acid (HOSCN) in the induction of mitochondrial dysfunction in macrophages.**  
    **Love DT**, Guo C, Nikelshparg EI, Brazhe NA, Sosnovtseva O, Hawkins CL.  
    Redox Biol. 2020 Sep.
    [DOI: 10.1016/j.redox.2020.101602](https://doi.org/10.1016/j.redox.2020.101602)
 
-6. **Cellular targets of the myeloperoxidase-derived oxidant hypothiocyanous acid (HOSCN) and its role in the inhibition of glycolysis in macrophages.**  
+5. **Cellular targets of the myeloperoxidase-derived oxidant hypothiocyanous acid (HOSCN) and its role in the inhibition of glycolysis in macrophages.**  
    **Love DT**, Barrett TJ, White MY, Cordwell SJ, Davies MJ, Hawkins CL.  
    Free Radic Biol Med. 2016 May.  
    [DOI: 10.1016/j.freeradbiomed.2016.02.016](https://doi.org/10.1016/j.freeradbiomed.2016.02.016)
+
+6. **Comparative reactivity of myeloperoxidase-derived oxidants with mammalian cells.**  
+   Rayner BS, **Love DT**, Hawkins CL.  
+   Free Radic Biol Med. 2014 Jun. 
+   [DOI: 10.1016/j.freeradbiomed.2014.03.004](https://doi.org/10.1016/j.freeradbiomed.2014.03.004)
