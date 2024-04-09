@@ -21,9 +21,10 @@
 - **Statistical Analysis & A/B Testing:** Proficient in Google Optimize and Optimizely for A/B testing and analysis.
 - **Project/Product Management:** Experienced with Atlassian tools for effective project management.
 
-### Some projects to check out:
+### Some personal projects to check out:
 
-#### [Looking at app reviews](assets/pages/app-review-analysis.html)
+#### [Looking for themes and topics within app reviews](assets/pages/app-review-analysis-final.html)
+
 
 ### Publications:
 
