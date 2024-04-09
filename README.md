@@ -25,7 +25,7 @@
 
 #### [Looking at app reviews](assets/pages/app-review-analysis.html)
 
-### Publications
+### Publications:
 
 1. **Endothelial VEGFR2-PLCγ signaling regulates vascular permeability and antitumor immunity through eNOS/Src.**  
    Sjöberg E, Melssen M, Richards M, Ding Y, Chanoca C, Chen D, Nwadozi E, Pal S, **Love DT**, Ninchoji T, Shibuya M, Simons M, Dimberg A, Claesson-Welsh L.  
