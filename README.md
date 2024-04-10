@@ -21,9 +21,9 @@
 
 ### Skills:
 
-- **Programming & Data:** SQL and Python, with professional experience in data analytics and web development with Django.
+- **Programming and Data:** SQL and Python, with professional experience in data analytics and web development with Django.
 - **Serverless Experience:** AWS (ETL/warehousing/analysis), Databricks.
-- **Visualisation & Reporting:** Tools including Excel and Power BI, and Python visualisation/graphing libraries (Matplotlib, Seaborn, Plotly). 
+- **Visualisation and Reporting:** Tools including Excel and Power BI, and Python visualisation/graphing libraries (Matplotlib, Seaborn, Plotly). 
 - **Verification and A/B Testing:** Ensuring software meets specification standards.
 - **Project/Product Management:** Experienced with Atlassian tools for effective project/product management.
 
