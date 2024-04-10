@@ -11,7 +11,7 @@
 
 ### Professional Experience:
 
-- **Senior Data & Verification Specialist at NuvoAir AB, Stockholm, Sweden (Feb 2022 - Present):** Leading data management and programming for clinical trials, ensuring data integrity, and executing data-driven strategies across departments. Working across analytics, project data management, and multifunctional teams in product and engineering.
+- **Senior Data and Verification Specialist at NuvoAir AB, Stockholm, Sweden (Feb 2022 - Present):** Leading data management and programming for clinical trials, ensuring data integrity, and executing data-driven strategies across departments. Working across analytics, project data management, and multifunctional teams in product and engineering.
 
 - **Clinical Trials Project Associate (Aug 2021 - Feb 2022):** Managing client projects, ensuring high-quality, timely, and within-budget trial execution. Working with operations analysis, client communication, risk management, and project documentation.
 
