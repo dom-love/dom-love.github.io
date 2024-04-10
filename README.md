@@ -1,9 +1,13 @@
 # Data Analyst and Verification Specialist
 
+* * *
+
 ### Education:
 
-- **PhD in Biostatistics and Vascular Biology** - University of Sydney, Sydney, Australia. Focus on atherosclerosis and metabolomics.
-- **Bachelor of Science (Hons)** - Western Sydney University, Sydney, Australia. Specialized in data analysis and statistical modeling.
+- **PhD in Biostatistics and Vascular Biology** - University of Sydney, Sydney, Australia.
+- **Bachelor of Science (Hons)** - Western Sydney University, Sydney, Australia.
+
+* * *
 
 ### Professional Experience:
 
@@ -13,18 +17,23 @@
 
 - **Postdoctoral Researcher at Uppsala Universitet, Uppsala, Sweden (Mar 2017 – Aug 2021):** Focused on vascular biology, employing quantitative methods to explore complex datasets.
 
+* * *
+
 ### Skills:
 
 - **Programming & Data:** SQL and Python, with professional experience in data analytics and web development with Django.
 - **Serverless Experience:** AWS (ETL/warehousing/analysis), Databricks.
-- **Visualization & Reporting:** Knowledge in Matplotlib, Seaborn, Plotly. 
-- **Statistical Analysis & A/B Testing:** Proficient in Google Optimize and Optimizely for A/B testing and analysis.
-- **Project/Product Management:** Experienced with Atlassian tools for effective project management.
+- **Visualisation & Reporting:** Tools including Excel and Power BI, and Python visualisation/graphing libraries (Matplotlib, Seaborn, Plotly). 
+- **Verification and A/B Testing:** Ensuring software meets specification standards.
+- **Project/Product Management:** Experienced with Atlassian tools for effective project/product management.
+
+* * *
 
 ### Some personal projects to check out:
 
 #### [Looking for themes and topics within app reviews](assets/pages/app-review-analysis-final.html)
 
+* * *
 
 ### Publications:
 
