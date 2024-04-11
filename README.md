@@ -32,7 +32,7 @@
 ### Some personal projects to check out:
 
 #### [Looking for themes and topics within app reviews](assets/pages/app-review-analysis-final.html)
-#### [Predicting customer churn using machine learning and PCA](assets/pages/bank-customers.html)
+#### [Bank customer predictions using ML and PCA](assets/pages/bank-customer-analysis.html)
 
 * * *
 
