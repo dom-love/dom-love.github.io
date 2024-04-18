@@ -4,7 +4,7 @@
 
 ### Education:
 
-- **PhD in Biostatistics and Vascular Biology** - University of Sydney, Sydney, Australia.
+- **PhD - Biostatistics and Vascular Biology** - University of Sydney, Sydney, Australia.
 - **Bachelor of Science (Hons)** - Western Sydney University, Sydney, Australia.
 
 * * *
